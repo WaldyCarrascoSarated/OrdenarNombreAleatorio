@@ -1,4 +1,4 @@
-﻿//By YO
+﻿//By me
 List<string> nombres = new List<string> { "Mª ÁNGELES PEÑA", "LILIANA","NATHALI VILLAPARDO", "YAZMIN MEJIA",
     "MARIEL LOAYZA", "ROMY ANTEZANA", "CLAUDIA", "EDIMAR", "SARAY", "ERIKA", "SANDRA", "ALISON",  "ANDREW",
     "BRIAN",  "CESAR", "DENNIS",  "DIEGO","LUIS", "MARCELO", "PAUL", "RICHARD", "ABRAHAM", "CRISTIAM", "EDSON",  "RICARDO",
