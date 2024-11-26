@@ -1,10 +1,4 @@
-﻿//By me
-List<string> nombres = new List<string> { "Mª ÁNGELES PEÑA", "LILIANA","NATHALI VILLAPARDO", "YAZMIN MEJIA",
-    "MARIEL LOAYZA", "ROMY ANTEZANA", "CLAUDIA", "EDIMAR", "SARAY", "ERIKA", "SANDRA", "ALISON",  "ANDREW",
-    "BRIAN",  "CESAR", "DENNIS",  "DIEGO","LUIS", "MARCELO", "PAUL", "RICHARD", "ABRAHAM", "CRISTIAM", "EDSON",  "RICARDO",
-    "ALEX",  "ALICIA",  "ANITA VILLCAZANA",  "LILI", "PATRICIA" ,"WALDY"};
-
-// Festivos nacionales de España (2024 y 2025)
+﻿// Festivos nacionales de España (2024 y 2025)
 HashSet<DateTime> festivos = new HashSet<DateTime>
         {
             // Festivos 2024
@@ -31,6 +25,11 @@ HashSet<DateTime> festivos = new HashSet<DateTime>
             new DateTime(2025, 12, 8),
             new DateTime(2025, 12, 25),
         };
+//Lista de Nombres
+List<string> nombres = new List<string> { "Mª ÁNGELES PEÑA", "LILIANA","NATHALI VILLAPARDO", "YAZMIN MEJIA",
+    "MARIEL LOAYZA", "ROMY ANTEZANA", "CLAUDIA", "EDIMAR", "SARAY", "ERIKA", "SANDRA", "ALISON",  "ANDREW",
+    "BRIAN",  "CESAR", "DENNIS",  "DIEGO","LUIS", "MARCELO", "PAUL", "RICHARD", "ABRAHAM", "CRISTIAM", "EDSON",  "RICARDO",
+    "ALEX",  "ALICIA",  "ANITA VILLCAZANA",  "LILI", "PATRICIA" ,"WALDY"};
 
 // Mezclar la lista de nombres aleatoriamente
 Random rand = new Random();
